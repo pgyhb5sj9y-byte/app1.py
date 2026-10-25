@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="TCST Smart Reefer System", page_icon="🚢", layout="wide")
+st.set_page_config(page_title="TCHP Smart Reefer System", page_icon="🚢", layout="wide")
 
-st.title("🚢 HỆ THỐNG KIỂM SOÁT VÀ ĐỐI CHIẾU CONTAINER LẠNH TỰ ĐỘNG (TCST)")
+st.title("🚢 HỆ THỐNG KIỂM SOÁT VÀ ĐỐI CHIẾU CONTAINER LẠNH TỰ ĐỘNG (TCHP)")
 st.markdown("---")
 
 # 1. KHỞI TẠO CƠ SỞ DỮ LIỆU ĐỘNG (SESSION STATE)
